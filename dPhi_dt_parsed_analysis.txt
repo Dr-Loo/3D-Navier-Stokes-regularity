@@ -1,0 +1,17 @@
+================================================================================
+PARSED ANALYSIS OF dΦ(C)/dt
+================================================================================
+
+Expression length: 0
+
+Derivative counts:
+  first_deriv: 0
+  second_deriv: 0
+  third_deriv: 0
+  mixed_second: 0
+  mixed_third: 0
+  fourth_deriv: 0
+
+Cubic terms (first 20):
+
+∂²u·∂u·∂u terms (first 20):
